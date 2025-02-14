@@ -1,2 +1,2 @@
 # project-yand
-this project is about a platformer/
+pseud 3d game
